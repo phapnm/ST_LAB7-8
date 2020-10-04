@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>id_false pw_false</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4aeabfe5-244a-4995-a2d4-fda149b75a29</testCaseGuid>
+   <variable>
+      <defaultValue>'phap123'</defaultValue>
+      <description></description>
+      <id>fe50e6cb-76fb-4905-96a9-ce714577441b</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+</TestCaseEntity>
